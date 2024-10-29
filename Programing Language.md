@@ -107,20 +107,59 @@
 
   
 
-##  **Syntax and Semantics**
+##  Syntax and Semantics
+#### 1. Introduction
+- Importance of syntax and semantics
+- Relationship between syntax and semantics
+#### 2. Syntax
+- Definition
+	- **Syntax is the structure of language statements.**
+- Types of Syntax
+    - **Lexical Syntax**
+        - Tokens and Lexemes
+        - Regular Expressions
+    - **Grammatical Syntax**
+        - Context-Free Grammars (CFG)
+        - BNF (Backus-Naur Form)
+        - Syntax Trees
+        - Parse Trees
+- Syntax Errors
+    - Types of Syntax Errors
+    - Error Detection Mechanisms
 
-  
+#### 3. Semantics
+- Definition
+	- **Semantics is the meaning of language constructs.**
+- Types of Semantics
+    - **Static Semantics**
+        - Type Checking
+        - Scope Rules
+    - **Dynamic Semantics**
+        - Operational Semantics
+        - Denotational Semantics
+        - Axiomatic Semantics
+- Semantics Errors
+    - Types of Semantic Errors
+    - Error Detection Mechanisms
 
-- Lexical and syntactic structure
+#### 4. Syntax vs. Semantics
 
-- Semantics
+- Differences and Interconnections
+- Role in Language Design
 
-- Parsing
+#### 5. Formal Language Theory
 
-- BNF (Backus-Naur Form)
+- Overview of Formal Language Theory
+- Chomsky Hierarchy
+    - Regular Languages
+    - Context-Free Languages
+    - Context-Sensitive Languages
+    - Recursively Enumerable Languages
+#### 6. Applications
 
-- Parse Trees
-
+- Compilers and Interpreters
+- Language Design and Implementation
+- Importance in Software Development
   
 
 ## ** Programming Paradigms**
