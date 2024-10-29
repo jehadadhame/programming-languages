@@ -1,0 +1,5 @@
+/* Override internal link styling within headers */
+.cm-s-obsidian span.cm-hmd-internal-link {
+    color: inherit !important;   /* Inherit the color of the surrounding element */
+    font-weight: inherit !important;  /* Inherit the font-weight of the surrounding element */
+}

@@ -1,0 +1,12 @@
+/* Override link styling for h1, h2, h3 headers */
+.cm-header-3  a {
+    color: var(--green) !important;  /* Retain header color */
+    font-weight: inherit !important;    /* Retain header font weight */
+    text-decoration: none !important;   /* Remove underline */
+}
+
+.cm-header-3   {
+    color: var(--green) !important;  /* Use the correct header color */
+    font-weight: inherit !important;    /* Inherit header font weight */
+    text-decoration: none !important;   /* Remove underline */
+}

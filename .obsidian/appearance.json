@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "obsidian",
+    "override-link-style"
+  ],
+  "baseFontSize": 18
+}
